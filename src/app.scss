@@ -1,5 +1,12 @@
-body{
-    margin: 0;
-    padding: 0;
-    background: rgb(240, 176, 146);
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(214, 179, 163);
+  font-size: 18px;
+}
+.main {
+  width: 100%;
+  max-width: 980px;
+  margin: 20px auto 80px;
+  padding: 0 10px;
 }
